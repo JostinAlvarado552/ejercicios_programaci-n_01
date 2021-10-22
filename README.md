@@ -1,1 +1,1 @@
-# ejercicios_programaci-n_01
+# ejercicios_programación_01
